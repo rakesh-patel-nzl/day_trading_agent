@@ -177,4 +177,4 @@ cython_debug/
 .idea/
 
 # Ignore logfiles
-# logs/
+logs/
